@@ -1,6 +1,6 @@
 import logging
 
-import gym
+import gymnasium as gym
 from gym import spaces
 
 CODE_MARK_MAP = {0: ' ', 1: 'O', 2: 'X'}
