@@ -1,6 +1,6 @@
 import random
 
-from env.gym_tictactoe.env import TicTacToeEnv, agent_by_mark, check_game_status, \
+from env.gym.tic_tac_toe import TicTacToeEnv, agent_by_mark, check_game_status, \
     after_action_state, tomark, next_mark
 
 
